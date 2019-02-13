@@ -12,6 +12,12 @@ Here are a list of my skills:
 * Time Management
 * Team Leader
 * Multitasking
+
+#### Contacts & Social Media
+
+[:computer: My Homepage](https://github.com/JoChungus321)
+
+
 ### Juan Rojas
 
  Hello, my name is *Juan*. I am in **4th** semester Interaction Design at George Brown College.
