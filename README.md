@@ -22,5 +22,5 @@ These are some of my favorite foods:
   * Pepperoni
   * Canadian
 * Pasta
-  * Spaghetti
-  * Ravioli
+
+## [:computer: My homepage](https://github.com/JuanRojasPaez)
