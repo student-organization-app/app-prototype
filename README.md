@@ -1,3 +1,5 @@
 # Student Organization App
 
-##Team Members 
+##Team Members
+
+### Juan Rojas
